@@ -1,0 +1,8 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.hasoogoo.it.kr/sitemap.xml
+
+# last updated: 2025-05-28 by GoodDoctor
+# trigger redeploy
+
