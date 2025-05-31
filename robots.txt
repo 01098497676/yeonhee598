@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /js/
+Allow: /css/
+Allow: /images/
+Allow: /fonts/
+Sitemap: https://www.hasoogoo.it.kr/sitemap.xml
+
+# last updated: 2025-05-31
